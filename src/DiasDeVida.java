@@ -19,10 +19,6 @@ public class DiasDeVida {
 		JOptionPane.showMessageDialog(null, "sua idade em Horas é: "+idadeH);
 		JOptionPane.showMessageDialog(null, "sua idade em Minutos é: "+idadeMin);
 		JOptionPane.showMessageDialog(null, "sua idade em Segundos é: "+idadeSeg);
-
-
-
-
 		
 	}
 
